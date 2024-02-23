@@ -7,10 +7,8 @@
 </p>
 
 # 💫 About Me:
-<p align="center"> 🔭 I'm a dumb boy with a very big dream🤝</p>
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
+  <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+  <p align="left"> 🔭 I'm a dumb boy with a very big dream🤝</p>
 
 ## 🌐 Socials:
 <p align="center">
