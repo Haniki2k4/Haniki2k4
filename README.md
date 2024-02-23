@@ -1,9 +1,9 @@
-### Hi there 👋
+                                                                  ### Hi there 👋
 
-# 💫 About Me:
-🔭 Dumb boy with a big dream🤝
+                                                                   # 💫 About Me:
+                                                            🔭 Dumb boy with a big dream🤝
 
-## 🌐 Socials:
+                  ## 🌐 Socials:
 <p align="center">
 <a href="https://twitter.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haniki2k4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haniki2k4" height="30" width="40" /></a>
