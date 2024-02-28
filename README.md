@@ -7,8 +7,11 @@
 </p>
 
 # 💫 About Me:
-  <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
-  <p align="left"> 🔭 I'm a dumb boy with a very big dream🤝</p>
+  <p align="left"> 🔭 I'm a dumb boy with a very big dream🤝
+<img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+
+    Console.WriteLine("Hello!!!");
+  </p>
 
 ## 🌐 Socials:
 <p align="center">
