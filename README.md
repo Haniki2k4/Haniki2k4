@@ -6,46 +6,67 @@
 </a>
 </p>
 
-# 💫 About Me:
-  <p align="left"> 🔭 I'm a dumb boy with a very big dream🤝
-<img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+# 👋 About Me
 
-    Console.WriteLine("Hello!!!");
-  </p>
+<p align="left">
+  🥂 I'm a dumb boy with a very big dream 🤝
+  <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
+</p>
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Haniki:
+    role = "Data Science Student"
+    learning = ["Machine Learning", "LLMs", "Computer Vision"]
+    coding = ["Python", "FastAPI", "SQL"]
+    currently = "AI & Data Projects"
+
+print("Hi, I'm Haniki 👋")
+```
+
 
 ## 🌐 Socials:
 <p align="center">
 <a href="https://twitter.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haniki2k4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haniki2k4" height="30" width="40" /></a>
-<a href="https://fb.com/haniki.19.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haniki.19.10" height="30" width="40" /></a>
-<a href="https://instagram.com/_hdg.haniki_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hdg.haniki_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haniki2k4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haniki2k4" height="30" width="40" /></a>
 <a href="https://discord.gg/Haniki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Haniki" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=haniki2k4&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haniki2k4&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 💻 Tech Stack
 
+### 👨‍💻 Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haniki2k4&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+### ⚙️ Backend & Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### 🤖 Data Science & AI
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+# 📈 GitHub Metrics
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/main/github-metrics.svg" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=haniki2k4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
