@@ -20,7 +20,7 @@ from dataclasses import dataclass
 class Haniki:
     role = "Data Science Student"
     learning = ["Machine Learning", "LLMs", "Computer Vision"]
-    coding = ["Python", "FastAPI", "SQL"]
+    coding = ["Python", "FastAPI"]
     currently = "AI & Data Projects"
 
 print("Hi, I'm Haniki 👋")
