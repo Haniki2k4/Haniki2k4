@@ -10,19 +10,16 @@
 
 
 # 👋 About Me
-
-<table style="width:100%; border:none !important; border-collapse:collapse;">
-  <tr style="border:none !important;">
-    <td width="50%" valign="middle"
-        style="border:none !important; padding:12px 20px 12px 0;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="left" valign="middle" border="0">
       <h3>🥂 A boy with a big dream</h3>
       🚀 Data Science graduate passionate about AI.<br>
       🧠 Exploring Machine Learning, LLMs & RAG.<br>
       🛠️ Building with Python, SQL & FastAPI.<br>
       🌱 Always learning, always leveling up.
     </td>
-    <td width="50%" align="center" valign="middle"
-        style="border:none !important; padding:0;">
+    <td width="50%" align="center" valign="middle" border="0">
       <img
         src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=web&theme=frost_elf"
         alt="Git Profile Awaken"
