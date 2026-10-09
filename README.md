@@ -1,29 +1,31 @@
 <h2 align="center">  Hi there, I'm Haniki 👋</h2>
 <p align="center">
-    <a href="https://github.com/SunoBB/github-badges">
+    <a href="https://github.com/Haniki2k4/github-badges">
         <img title="Last commit Readme's" alt="Haniki's Badge" src="https://img.shields.io/github/last-commit/Haniki2k4/Haniki2k4?&style=for-the-badge&color=0786f5&logoColor=03060a&labelColor=0029b0"/>
 
 </a>
 </p>
 
 # 👋 About Me
+<div align="center">
+    <p>
+      <img align="right" height="150" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
+      🥂 I'm a dumb boy with a very big dream 🤝
+    </p>
+</div>
 
-<p align="center">
-  🥂 I'm a dumb boy with a very big dream 🤝
-  <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
-</p>
-
+---
 ### 🐍 Contribution Trail
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ### 📬 Connect
-- LinkedIn: [linkedin.com/in/haniki2k4](https://www.linkedin.com/in/haniki2k4/)
+- LinkedIn: [linkedin.com/in/Haniki2k4](https://www.linkedin.com/in/Haniki2k4/)
 - GitHub: [@Haniki2k4](https://github.com/Haniki2k4)
 ---
 
@@ -56,12 +58,14 @@
 | [EpiScoutAI](https://github.com/Haniki2k4/epi-scout-ai-main) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
 
 ### 📈 GitHub Pulse
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haniki2k4&show_icons=true&hide_border=true&theme=transparent" alt="Haniki's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haniki2k4&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<p align="center">
+  <a href="https://github.com/Haniki2k4">
+    <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=Haniki2k4&show_icons=true&bg_color=0A0A0F&title_color=F6C177&text_color=E0E1F0&icon_color=7EE787&hide_border=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/Haniki2k4">
+    <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Haniki2k4&layout=compact&bg_color=0A0A0F&title_color=8A77FF&text_color=E0E1F0&hide_border=true" alt="Top languages"/>
+  </a>
 </p>
-
 ---
 
 *“Build useful things, keep learning, and make the work speak for itself.”*
