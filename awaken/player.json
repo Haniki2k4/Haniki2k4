@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9355827696755423,
+  "overallPercentile": 0.9356271628032444,
   "layout": "default",
   "class": {
     "name": "Illusionist",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 223,
+      "value": 224,
       "rank": "B",
-      "percentile": 0.8347682950238114
+      "percentile": 0.8354831729569094
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 223
+      "value": 224
     },
     {
       "id": "unbroken",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T10:13:41.329Z"
+  "syncedAt": "2026-10-09T10:15:27.033Z"
 }
