@@ -13,11 +13,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img
-        src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=bio&theme=frost_elf"
-        alt="About Me"
-        width="100%"
-      />
+      <img src="./awaken/bio.svg" alt="About Me" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
