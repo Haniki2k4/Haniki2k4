@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.936186088197581,
+  "overallPercentile": 0.9363565168056858,
   "layout": "custom",
   "class": {
     "name": "Illusionist",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 231,
+      "value": 235,
       "rank": "B",
-      "percentile": 0.8403464321805195
+      "percentile": 0.8430192077598133
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 231
+      "value": 235
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 38
+      "value": 37
     },
     {
       "id": "early-bird",
@@ -96,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 34
+      "value": 33
     },
     {
       "id": "gate-opener",
@@ -146,7 +146,7 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 20
+      "value": 24
     },
     {
       "id": "diligent",
@@ -200,5 +200,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T13:35:57.646Z"
+  "syncedAt": "2026-10-09T13:59:58.363Z"
 }

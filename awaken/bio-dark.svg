@@ -32,13 +32,13 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<path d="M18 4H416V262L402 276H4V18Z" fill="#0a1d29"/>
-<path d="M18 4H416V40H4V18Z" fill="#152834"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#253743"/>
-<text x="210" y="27" class="wtitle" fill="#5fd4ff" text-anchor="middle">[ CHARACTER ]</text>
-<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#4a7388" stroke-width="1.5"/>
-<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#5fd4ff" stroke-width="2" filter="url(#glow)"/>
-<text x="20" y="70" class="label" fill="#8fb6c9">ROLE</text><text x="400" y="70" class="strong" fill="#e8f8ff" text-anchor="end">Data Science Graduate</text><line x1="20" y1="79.5" x2="400" y2="79.5" stroke="#253743"/><text x="20" y="98" class="label" fill="#8fb6c9">FOCUS</text><text x="400" y="98" class="strong" fill="#e8f8ff" text-anchor="end">AI, Machine Learning, LLMs &amp; RAG</text><line x1="20" y1="107.5" x2="400" y2="107.5" stroke="#253743"/><text x="20" y="126" class="label" fill="#8fb6c9">BASE</text><text x="400" y="126" class="strong" fill="#e8f8ff" text-anchor="end">Vietnam</text><line x1="20" y1="135.5" x2="400" y2="135.5" stroke="#253743"/><text x="20" y="154" class="label" fill="#8fb6c9">CLASS</text><text x="400" y="154" class="strong" fill="#e8f8ff" text-anchor="end">Illusionist · Wind</text><line x1="20" y1="163.5" x2="400" y2="163.5" stroke="#253743"/><text x="20" y="182" class="label" fill="#8fb6c9">AWAKENED</text><text x="400" y="182" class="strong" fill="#e8f8ff" text-anchor="end">2022-11-08</text><line x1="20" y1="191.5" x2="400" y2="191.5" stroke="#253743"/>
-<text x="20" y="218" class="body" fill="#8fb6c9">Building AI-powered applications with Python, SQL and</text><text x="20" y="236" class="body" fill="#8fb6c9">FastAPI. Always learning and leveling up.</text>
-<text x="400" y="262" class="code" fill="#8fb6c9" text-anchor="end">@Haniki2k4 · SYNCED 2026-10-09</text>
+<path d="M18 4H416V262L402 276H4V18Z" fill="#0c1420"/>
+<path d="M18 4H416V40H4V18Z" fill="#171f2b"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#272f3a"/>
+<text x="210" y="27" class="wtitle" fill="#d9b45a" text-anchor="middle">[ CHARACTER ]</text>
+<path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#586578" stroke-width="1.5"/>
+<path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#d9b45a" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="70" class="label" fill="#98a6b8">ROLE</text><text x="400" y="70" class="strong" fill="#eef2f7" text-anchor="end">Data Science Graduate</text><line x1="20" y1="79.5" x2="400" y2="79.5" stroke="#272f3a"/><text x="20" y="98" class="label" fill="#98a6b8">FOCUS</text><text x="400" y="98" class="strong" fill="#eef2f7" text-anchor="end">AI, Machine Learning, LLMs &amp; RAG</text><line x1="20" y1="107.5" x2="400" y2="107.5" stroke="#272f3a"/><text x="20" y="126" class="label" fill="#98a6b8">BASE</text><text x="400" y="126" class="strong" fill="#eef2f7" text-anchor="end">Vietnam</text><line x1="20" y1="135.5" x2="400" y2="135.5" stroke="#272f3a"/><text x="20" y="154" class="label" fill="#98a6b8">CLASS</text><text x="400" y="154" class="strong" fill="#eef2f7" text-anchor="end">Illusionist · Wind</text><line x1="20" y1="163.5" x2="400" y2="163.5" stroke="#272f3a"/><text x="20" y="182" class="label" fill="#98a6b8">AWAKENED</text><text x="400" y="182" class="strong" fill="#eef2f7" text-anchor="end">2022-11-08</text><line x1="20" y1="191.5" x2="400" y2="191.5" stroke="#272f3a"/>
+<text x="20" y="218" class="body" fill="#98a6b8">Building AI-powered applications with Python, SQL and</text><text x="20" y="236" class="body" fill="#98a6b8">FastAPI. Always learning and leveling up.</text>
+<text x="400" y="262" class="code" fill="#98a6b8" text-anchor="end">@Haniki2k4 · SYNCED 2026-10-09</text>
 </svg>
