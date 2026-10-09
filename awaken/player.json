@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 42
+      "value": 41
     },
     {
       "id": "early-bird",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T10:07:47.840Z"
+  "syncedAt": "2026-10-09T10:13:41.329Z"
 }
