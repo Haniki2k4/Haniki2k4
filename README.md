@@ -6,13 +6,26 @@
 </a>
 </p>
 
+
+
 # 👋 About Me
-<div align="center">
-    <p>
-      <img align="right" height="150" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
-      🥂 I'm a dumb boy with a very big dream 🤝
-    </p>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <td width="50%" valign="middle" style="border: none;">
+      ### 🥂 A boy with a big dream
+      🚀 Data Science graduate passionate about AI.
+      🧠 Exploring Machine Learning, LLMs & RAG.
+      🛠️ Building with Python, SQL & FastAPI.
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <img
+        src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=web&theme=hunter_association"
+        alt="Git Profile Awaken"
+        width="60%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🐍 Contribution Trail
