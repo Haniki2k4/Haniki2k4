@@ -12,17 +12,17 @@
 # 👋 About Me
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="left" valign="middle" border="0">
-      <h3>🥂 A boy with a big dream</h3>
-      🚀 Data Science graduate passionate about AI.<br>
-      🧠 Exploring Machine Learning, LLMs & RAG.<br>
-      🛠️ Building with Python, SQL & FastAPI.<br>
-      🌱 Always learning, always leveling up.
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=bio&theme=frost_elf"
+        alt="About Me"
+        width="100%"
+      />
     </td>
-    <td width="50%" align="center" valign="middle" border="0">
+    <td width="50%" align="center" valign="middle">
       <img
         src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=web&theme=frost_elf"
-        alt="Git Profile Awaken"
+        alt="GitHub Stat Web"
         width="100%"
       />
     </td>
@@ -37,7 +37,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
 
 ### 📬 Connect
 - LinkedIn: [linkedin.com/in/Haniki2k4](https://www.linkedin.com/in/Haniki2k4/)
