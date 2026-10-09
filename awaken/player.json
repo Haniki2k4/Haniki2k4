@@ -2,26 +2,26 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9356271628032444,
-  "layout": "default",
+  "overallPercentile": 0.936186088197581,
+  "layout": "custom",
   "class": {
     "name": "Illusionist",
     "element": "Wind",
     "from": "HTML"
   },
-  "title": "Veteran",
+  "title": "Quickdraw",
   "stats": [
     {
       "code": "STR",
-      "value": 224,
+      "value": 231,
       "rank": "B",
-      "percentile": 0.8354831729569094
+      "percentile": 0.8403464321805195
     },
     {
       "code": "AGI",
-      "value": 24,
+      "value": 25,
       "rank": "A",
-      "percentile": 0.9092626882252413
+      "percentile": 0.9127950781832184
     },
     {
       "code": "INT",
@@ -48,27 +48,35 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "quickdraw",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-09T13:35:57.646Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 23
+      "value": 24
     },
     {
       "id": "quickdraw",
-      "tier": 2,
-      "value": 24
+      "tier": 3,
+      "value": 25
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 23
+      "value": 24
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 224
+      "value": 231
     },
     {
       "id": "unbroken",
@@ -78,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 41
+      "value": 38
     },
     {
       "id": "early-bird",
@@ -88,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 36
+      "value": 34
     },
     {
       "id": "gate-opener",
@@ -138,12 +146,12 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 15
+      "value": 20
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 46
+      "value": 47
     },
     {
       "id": "daily-grinder",
@@ -192,5 +200,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T10:15:27.033Z"
+  "syncedAt": "2026-10-09T13:35:57.646Z"
 }
