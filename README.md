@@ -13,57 +13,53 @@
   <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 </p>
 
-```python
-from dataclasses import dataclass
+### 🐍 Contribution Trail
 
-@dataclass
-class Haniki:
-    role = "Data Science Student"
-    learning = ["Machine Learning", "LLMs", "Computer Vision"]
-    coding = ["Python", "FastAPI"]
-    currently = "AI & Data Projects"
-
-print("Hi, I'm Haniki 👋")
-```
-
-
-## 🌐 Socials:
 <p align="center">
-<a href="https://twitter.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haniki2k4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haniki2k4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haniki2k4" height="30" width="40" /></a>
-<a href="https://discord.gg/Haniki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Haniki" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
+
+### 📬 Connect
+
+- 💼 LinkedIn: [linkedin.com/in/haniki2k4](https://www.linkedin.com/in/haniki2k4/)
+- 💻 GitHub: [@Haniki2k4](https://github.com/Haniki2k4)
+
 
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
+**Languages & data:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Backend & tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🤖 Data Science & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+**Data science & AI:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square&logo=openai&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
 
-### 🗄️ Databases
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🧩 Selected Builds
 
-# 📈 GitHub Metrics
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [EpiScoutAI](https://epi-scout-ai-main.vercel.app/) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Haniki2k4/Haniki2k4/main/github-metrics.svg" />
+### 📈 GitHub Pulse
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haniki2k4&show_icons=true&hide_border=true&theme=transparent" alt="Haniki's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haniki2k4&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
 ### ✍️ Random Dev Quote
