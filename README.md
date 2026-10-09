@@ -62,7 +62,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haniki2k4&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+*“Build useful things, keep learning, and make the work speak for itself.”*
 
