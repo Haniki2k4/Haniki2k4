@@ -10,12 +10,12 @@
 
 
 # 👋 About Me
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" valign="middle" style="border: none;">
       <img src="./awaken/bio.svg" alt="About Me" width="100%" />
     </td>
-    <td width="50%" align="center" valign="middle">
+    <<td width="50%" align="center" valign="middle" style="border: none;">
       <img
         src="https://git-profile-awaken.vercel.app/api?username=Haniki2k4&widget=web&theme=frost_elf"
         alt="GitHub Stat Web"
