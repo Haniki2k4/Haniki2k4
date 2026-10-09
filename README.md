@@ -8,7 +8,7 @@
 
 # 👋 About Me
 
-<p align="left">
+<p align="center">
   🥂 I'm a dumb boy with a very big dream 🤝
   <img align="right" height="190" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 </p>
@@ -23,12 +23,9 @@
 </div>
 
 ### 📬 Connect
-
-- 💼 LinkedIn: [linkedin.com/in/haniki2k4](https://www.linkedin.com/in/haniki2k4/)
-- 💻 GitHub: [@Haniki2k4](https://github.com/Haniki2k4)
-
-
-# 💻 Tech Stack
+- LinkedIn: [linkedin.com/in/haniki2k4](https://www.linkedin.com/in/haniki2k4/)
+- GitHub: [@Haniki2k4](https://github.com/Haniki2k4)
+---
 
 ### 👨‍💻 Languages
 **Languages & data:**  
@@ -56,7 +53,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [EpiScoutAI](https://epi-scout-ai-main.vercel.app/) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
+| [EpiScoutAI](https://github.com/Haniki2k4/epi-scout-ai-main) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
 
 ### 📈 GitHub Pulse
 
