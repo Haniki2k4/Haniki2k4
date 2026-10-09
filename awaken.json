@@ -1,7 +1,17 @@
 {
   "username": "Haniki2k4",
-  "layout": "default",
+  "layout": "custom",
   "theme": "frost_elf",
   "activity": "arise",
   "timezone": "Asia/Ho_Chi_Minh",
+  "bio": {
+    "role": "Data Science Graduate",
+    "focus": "AI, Machine Learning, LLMs & RAG",
+    "location": "Vietnam",
+    "about": "Building AI-powered applications with Python, SQL and FastAPI. Always learning and leveling up."
+  },
+  "widgets": [
+    "bio",
+    "web"
+  ]
 }
