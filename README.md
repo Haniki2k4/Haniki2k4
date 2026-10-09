@@ -50,6 +50,7 @@
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
 ### 🧩 Selected Builds
 
@@ -57,6 +58,7 @@
 | --- | --- | --- |
 | [EpiScoutAI](https://github.com/Haniki2k4/epi-scout-ai-main) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
 
+---
 ### 📈 GitHub Pulse
 <p align="center">
   <a href="https://github.com/Haniki2k4">
