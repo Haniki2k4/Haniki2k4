@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9363565168056858,
+  "overallPercentile": 0.936398676434775,
   "layout": "custom",
   "class": {
     "name": "Illusionist",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 235,
+      "value": 236,
       "rank": "B",
-      "percentile": 0.8430192077598133
+      "percentile": 0.8436758155714599
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 235
+      "value": 236
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 37
+      "value": 35
     },
     {
       "id": "early-bird",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 47
+      "value": 48
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 4
     },
     {
       "id": "boss-slayer",
@@ -181,11 +181,16 @@
     {
       "id": "collector",
       "tier": 0,
-      "value": 2
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 2,
@@ -200,13 +205,14 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
+    "questsDone": 4,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
-      "three"
+      "three",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-10-09T21:39:14.052Z"
+  "syncedAt": "2026-10-10T20:33:39.803Z"
 }
