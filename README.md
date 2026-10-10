@@ -57,7 +57,8 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [EpiScoutAI](https://github.com/Haniki2k4/epi-scout-ai-main) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · MiniLM · Docker |
+| [EpiScoutAI](https://github.com/Haniki2k4/epi-scout-ai-main) | A public-health research project exploring a RAG-based chatbot and information retrieval for epidemiological content. | Python · FastAPI · MySQL · |
+| [Pet Haven](https://github.com/Haniki2k4/DBoPet) | A Discord virtual pet bot featuring pet adoption, daily care, leveling, an in-game economy, customizable housing, and interactive mini-games. | TypeScript · Node.js · discord.js · Prisma · SQLite | 
 
 ---
 ### 📈 GitHub Pulse
