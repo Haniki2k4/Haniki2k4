@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-15T20:19:11.668Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "quickdraw",
       "from": "2",
       "to": "3",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "boss-slayer",
@@ -180,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-15",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-14",
         "cleared": 0,
@@ -225,14 +237,15 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 5,
+    "questsDone": 6,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
       "three",
-      "two-repos"
+      "two-repos",
+      "mp"
     ]
   },
-  "syncedAt": "2026-10-14T20:40:37.651Z"
+  "syncedAt": "2026-10-15T20:19:11.668Z"
 }
