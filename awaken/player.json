@@ -55,13 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-15T20:19:11.668Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "quickdraw",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-09T13:35:57.646Z"
     }
   ],
   "achievements": [
@@ -173,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 6
+      "value": 7
     },
     {
       "id": "boss-slayer",
@@ -193,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 1,
@@ -237,7 +235,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 6,
+    "questsDone": 7,
     "bosses": [],
     "escapes": 1,
     "kinds": [
@@ -247,5 +245,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-15T20:19:11.668Z"
+  "syncedAt": "2026-10-16T19:55:45.863Z"
 }
