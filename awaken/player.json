@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 29
+      "value": 28
     },
     {
       "id": "gate-opener",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 39
+      "value": 37
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-25",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-24",
         "cleared": 0,
@@ -277,5 +282,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-24T19:28:14.014Z"
+  "syncedAt": "2026-10-25T19:34:52.403Z"
 }
