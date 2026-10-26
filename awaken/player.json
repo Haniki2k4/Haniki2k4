@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.936398676434775,
+  "overallPercentile": 0.934163697070501,
   "layout": "custom",
   "class": {
     "name": "Illusionist",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 5,
+      "value": 4,
       "rank": "C",
-      "percentile": 0.728198512785954
+      "percentile": 0.6331483952649493
     },
     {
       "code": "LUK",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-26",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-25",
         "cleared": 0,
         "total": 3
@@ -282,5 +287,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-25T19:34:52.403Z"
+  "syncedAt": "2026-10-26T21:37:50.227Z"
 }
