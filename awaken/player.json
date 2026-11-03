@@ -2,26 +2,26 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.934163697070501,
+  "overallPercentile": 0.9379497783479733,
   "layout": "custom",
   "class": {
-    "name": "Illusionist",
-    "element": "Wind",
-    "from": "HTML"
+    "name": "Blade Master",
+    "element": "Lightning",
+    "from": "JavaScript"
   },
   "title": "Quickdraw",
   "stats": [
     {
       "code": "STR",
-      "value": 236,
+      "value": 251,
       "rank": "B",
-      "percentile": 0.8436758155714599
+      "percentile": 0.8530042959329189
     },
     {
       "code": "AGI",
-      "value": 25,
+      "value": 29,
       "rank": "A",
-      "percentile": 0.9127950781832184
+      "percentile": 0.9249860635506788
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 4,
+      "value": 5,
       "rank": "C",
-      "percentile": 0.6331483952649493
+      "percentile": 0.728198512785954
     },
     {
       "code": "LUK",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 24
+      "value": 27
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 25
+      "value": 27
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 24
+      "value": 27
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 236
+      "value": 251
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 37
+      "value": 39
     },
     {
       "id": "early-bird",
@@ -88,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 28
+      "value": 27
     },
     {
       "id": "gate-opener",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "raider",
@@ -103,7 +103,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 96
+      "value": 93
     },
     {
       "id": "healer",
@@ -138,12 +138,12 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 24
+      "value": 28
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 37
+      "value": 43
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 11
     },
     {
       "id": "boss-slayer",
@@ -168,16 +168,21 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-03",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-02",
         "cleared": 0,
@@ -312,15 +317,16 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 9,
+    "questsDone": 11,
     "bosses": [],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "three",
       "two-repos",
-      "mp"
+      "mp",
+      "average"
     ]
   },
-  "syncedAt": "2026-11-02T23:52:13.387Z"
+  "syncedAt": "2026-11-03T22:16:44.733Z"
 }
