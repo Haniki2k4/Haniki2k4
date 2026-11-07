@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9379497783479733,
+  "overallPercentile": 0.9385466406987364,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 7,
+      "value": 8,
       "rank": "A",
-      "percentile": 0.8946899329661583
+      "percentile": 0.9038002831567125
     },
     {
       "code": "CHA",
@@ -118,7 +118,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 7
+      "value": 8
     },
     {
       "id": "beacon",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 0,
@@ -343,5 +348,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-11-06T22:04:13.423Z"
+  "syncedAt": "2026-11-07T20:51:25.996Z"
 }
