@@ -2,7 +2,7 @@
   "login": "Haniki2k4",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9385466406987364,
+  "overallPercentile": 0.9392117670930706,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 251,
+      "value": 257,
       "rank": "B",
-      "percentile": 0.8530042959329189
+      "percentile": 0.8564811864812613
     },
     {
       "code": "AGI",
-      "value": 29,
+      "value": 31,
       "rank": "A",
-      "percentile": 0.9249860635506788
+      "percentile": 0.9301187715671546
     },
     {
       "code": "INT",
@@ -48,27 +48,35 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-08T21:06:41.301Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 27
+      "value": 29
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 27
+      "value": 29
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 27
+      "value": 29
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 251
+      "value": 257
     },
     {
       "id": "unbroken",
@@ -78,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 39
+      "value": 37
     },
     {
       "id": "early-bird",
@@ -88,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 27
+      "value": 29
     },
     {
       "id": "gate-opener",
@@ -103,7 +111,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 93
+      "value": 94
     },
     {
       "id": "healer",
@@ -133,7 +141,7 @@
     {
       "id": "veteran",
       "tier": 2,
-      "value": 3
+      "value": 4
     },
     {
       "id": "berserker",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 43
+      "value": 45
     },
     {
       "id": "daily-grinder",
@@ -158,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 12
+      "value": 14
     },
     {
       "id": "boss-slayer",
@@ -167,8 +175,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-08",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-07",
         "cleared": 0,
@@ -337,9 +350,9 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 12,
+    "questsDone": 14,
     "bosses": [],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "three",
@@ -348,5 +361,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-11-07T20:51:25.996Z"
+  "syncedAt": "2026-11-08T21:06:41.301Z"
 }
