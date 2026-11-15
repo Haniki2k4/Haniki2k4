@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-08T21:06:41.301Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-14",
         "cleared": 0,
@@ -391,5 +388,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-11-14T21:25:37.806Z"
+  "syncedAt": "2026-11-15T21:44:45.508Z"
 }
